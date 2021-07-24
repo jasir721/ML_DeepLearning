@@ -12,3 +12,5 @@ Data preprocessing, Data visualization using advanced libraries, Evaluating usin
 ## 4. DeepLearnng Image recognition
 Using Keras pretrained models to detect the objects in the image.
 ### Libraries used:- numpy, tensorflow , keras
+## 5. Handwritten digit classification:
+
